@@ -41,7 +41,7 @@ The dataset consists of case-related financial and marketing data, including:
 
 ### **Financial Insights**
 1. **Revenue and Investment Trends**:
-   - Revenue peaked in Q3 of 2022, with a noticeable dip in Q1 2023.
+   - Revenue peaked in Q3 of 2012, with a noticeable dip in Q1 2013.
    - Total investment saw consistent growth, highlighting the need for better cost management.
 2. **Profitability Analysis**:
    - **Top Performing Case Types**: Intellectual Property and Real Estate contributed the most to revenue and ROI.
