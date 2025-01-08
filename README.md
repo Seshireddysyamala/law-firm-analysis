@@ -7,6 +7,7 @@ This project showcases a comprehensive data analysis conducted on a law firm's f
 ## 🛠 **Project Overview**
 Law firms often face challenges in understanding the financial impact of their case types and client relationships. This project addresses these challenges by analyzing historical data related to revenue, investments, case types, and client contributions. By leveraging Power BI, this project provides dashboards and KPIs to support strategic decision-making.
 
+### **Report Link**: https://shorturl.at/BeFJ4
 ### **Key Objectives**
 1. **Financial Analysis**:
    - Identify high-revenue case types and clients.
