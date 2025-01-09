@@ -7,7 +7,9 @@ This project showcases a comprehensive data analysis conducted on a law firm's f
 ## 🛠 **Project Overview**
 Law firms often face challenges in understanding the financial impact of their case types and client relationships. This project addresses these challenges by analyzing historical data related to revenue, investments, case types, and client contributions. By leveraging Power BI, this project provides dashboards and KPIs to support strategic decision-making.
 
-### **Report Link**: https://shorturl.at/BeFJ4
+### **Report Link**
+[Interactive Power BI Dashboard](https://shorturl.at/Mt1M6)
+
 ### **Key Objectives**
 1. **Financial Analysis**:
    - Identify high-revenue case types and clients.
@@ -19,9 +21,6 @@ Law firms often face challenges in understanding the financial impact of their c
    - Identify popular case types based on frequency and revenue contribution.
    - Showcase high-revenue clients and repeat clients.
 
-3. **Visualization and Reporting**:
-   - Create visually engaging and interactive dashboards to present insights.
-   - Provide actionable recommendations based on data analysis.
 
 ---
 
@@ -76,6 +75,38 @@ The dataset consists of case-related financial and marketing data, including:
    - **Clustered Bar Chart**: Compares case count and revenue by case type.
    - **Line Chart**: Tracks monthly trends in case count.
    - **Pie Chart**: Visualizes case type popularity based on frequency.
+### **Dashboard Highlights**
+1. **Revenue and Total Investment Trends**:
+   - **Visualization**: Line Chart
+   - **Insights**: Tracks monthly revenue and investment trends, helping identify high-revenue periods and cost inefficiencies.
+
+2. **Revenue by Case Type**:
+   - **Visualization**: Bar Chart
+   - **Insights**: Highlights case types like Intellectual Property and Real Estate as the top revenue generators.
+
+3. **Profitability by Client**:
+   - **Visualization**: Bar Chart
+   - **Insights**: Compares revenue and profit by client, identifying high-value clients like **Smith & Partners**.
+
+4. **ROI by Case Type**:
+   - **Visualization**: Bar Chart
+   - **Insights**: Evaluates ROI across case types, revealing Intellectual Property as the most cost-efficient service.
+
+5. **Revenue Share by Client**:
+   - **Visualization**: Pie Chart
+   - **Insights**: Displays revenue distribution among clients, emphasizing reliance on top clients and opportunities for diversification.
+
+6. **Case Count Trends by Month**:
+   - **Visualization**: Line Chart
+   - **Insights**: Tracks case volumes over time, helping with resource planning.
+
+7. **Popular Cases by Type**:
+   - **Visualization**: Clustered Bar Chart
+   - **Insights**: Shows the frequency of cases by type. Real Estate is the most frequent case type, followed by Employment and Intellectual Property. These insights guide marketing and resource allocation to align with demand.
+
+8. **Client Retention Analysis**:
+   - **Visualization**: Funnel Chart
+   - **Insights**: Analyzes client retention, highlighting that 33% of clients are repeat customers and 20% are high-revenue contributors.
 
 ---
 
@@ -91,7 +122,6 @@ The dataset consists of case-related financial and marketing data, including:
 - Total Clients: **15**
 - Repeat Clients: **5**
 - High-Revenue Clients: **4**
-- Most Popular Case Type: **Real Estate**
 
 ---
 
@@ -125,12 +155,11 @@ The dataset consists of case-related financial and marketing data, including:
 
 ### Financial Recommendations
 1. Focus on case types with high ROI like Intellectual Property and Real Estate.
-2. Improve cost management for low-ROI cases like Family Law.
-3. Invest more resources in high-revenue periods (Q3).
+2. Optimize costs for low-ROI case types to improve profitability.
+3. Invest more resources in high-revenue periods (e.g.,Q3).
 
 ### Marketing Recommendations
-1. Retain high-revenue clients with personalized services.
+1. Retain high-revenue clients with personalized services to improve the **33% retention rate**.
 2. Expand services in Real Estate and Employment case types to leverage popularity.
-3. Develop targeted campaigns for repeat clients to increase retention.
-
+3. Focus on retaining top clients contributing 60% of the firm's revenue.
 ----
